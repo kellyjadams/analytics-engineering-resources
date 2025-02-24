@@ -38,6 +38,8 @@ Note this is very similar to the same section in [data-analytics-resources](http
 
 - [Madison Schott](https://www.linkedin.com/in/schottmadison/)
 - [Connor Dickson](https://www.linkedin.com/in/connordickson2/)
+- [Bruno Souza de Lima](https://www.linkedin.com/in/brunoszdl/)
+- [Redha Cherif](https://www.linkedin.com/in/redhacherif/)
 
 ## Books
 
