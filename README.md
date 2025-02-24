@@ -2,7 +2,7 @@
 
 Below are the best resources I've found related to analytics engineering whether it's learning new skills or get inspiration from creators. While most of the links focus analytics enginnering there's some that are data engineering. Since there's so much overlap between the two fields.
 
-Don't know what analytics enginnering is? Check out my blog post [here]().
+Don't know what analytics enginnering is? Check out my blog post [here](https://www.kellyjadams.com/post/what-is-an-analytics-engineer).
 
 ## Contributing
 Feel free to contribute to this list by adding links you've found helpful. Submit a Pull Request (PR) with your suggestions.
