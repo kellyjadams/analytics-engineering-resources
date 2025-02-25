@@ -19,6 +19,7 @@ Here you will find:
 ## Specific Courses
 
 - [Hands-On Analytics Engineering Project - LinkedIn Learning Course](https://www.linkedin.com/learning/hands-on-analytics-engineering-project?trk=profile_featured_learning_course&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVP3qykzJS%2BeH05NxdZYLLw%3D%3D)
+- [Git Immersion - Free course in Ruby to learn basics of Git](https://gitimmersion.com/)
 
 ## Sites to Find Public Datasets
 
@@ -33,6 +34,7 @@ Note this is very similar to the same section in [data-analytics-resources](http
 - [Datacamp Datasets](https://www.datacamp.com/workspace/datasets)
 - [NASA Data](https://data.nasa.gov/)
 - [Google BigQuery](https://cloud.google.com/bigquery/docs/sandbox)
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 
 ## LinkedIn Creators
 
