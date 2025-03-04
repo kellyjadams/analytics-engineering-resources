@@ -48,7 +48,17 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ## ✏️ Best Practices
 
-⚠️This section is still a work in progress, please feel free to add more ⚠️
+⚠️This section is still a work in progress, feel free to add more ⚠️
+
+### Data Modeling
+
+- Use a Star Schema – Organize data into fact and dimension tables to improve query performance.
+- Partition & Cluster Large Tables – Partition by date and cluster by frequently filtered columns to speed up queries.  
+- Documentation – Document the data models to keep schema and relationships clear.
+
+---
+
+This keeps it **simple, actionable, and easy to follow** while still being useful for analytics engineering. 🚀
 
 ## 📚 Learning Resources
 - Specific Courses
