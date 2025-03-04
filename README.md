@@ -10,8 +10,11 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 - What is Analytics Engineering?
   - [What is an analytics engineer?](https://www.kellyjadams.com/post/what-is-an-analytics-engineer)
   - [The Rise of Analytics Engineering (and Why You Should Care)](https://youtu.be/Qj1_KgakzqU?si=gO5rKvuHY84KjyJU)
+  - [What is an Analytics Engineer? Everything you need to know](https://www.datacamp.com/blog/what-is-an-analytics-engineer-everything-you-need-to-know)
+  - [Analytics Engineer vs Data Analyst](https://www.getdbt.com/blog/analytics-engineer-vs-data-analyst)
   - [What is Analytics Engineering?](https://www.getdbt.com/blog/what-is-analytics-engineering)
   - [Analytics Engineering Life Cycle](https://www.getdbt.com/resources/guides/the-analytics-development-lifecycle)
+  - [Analytics Engineer Responsibilties](https://handbook.gitlab.com/job-families/marketing/enterprise-data/analytics-engineer/)
 - Need real-world data? Check out [Sites to Find Public Datasets](#sites-to-find-public-datasets)
 - Looking for courses? See [Specific Courses](#specific-courses)
 
@@ -21,16 +24,21 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ### Data Transformation  
 - [dbt](https://www.getdbt.com/) – Modular SQL-based transformations
+- [SQLMesh](https://sqlmesh.com/) – Open source Data Transformations
+- [DataForm](https://cloud.google.com/dataform?hl=en) – Google BigQuery specific Data Transformation tool
 - [SQL Basics](https://www.w3schools.com/sql/) – Querying and transforming structured data
 - [Apache Spark](https://spark.apache.org/) – Large-scale distributed data processing
 
 ### Orchestration  
 - [Apache Airflow](https://airflow.apache.org/) – Workflow automation & scheduling
+- [Dagster](https://dagster.io/) – Workflow automation & scheduling
+- [Prefect](https://www.prefect.io/) – Pythonic Workflow orchestration
 - [Google Cloud Workflows](https://cloud.google.com/workflows?hl=en) - Google's version of Workflows 
 
 ### Data Storage  
 - [Snowflake](https://www.snowflake.com/) – Cloud data warehousing
 - [BigQuery](https://cloud.google.com/bigquery) – Serverless, scalable data warehouse
+- [Databricks](https://www.databricks.com/) – Data Lakehouse from creators of Apache Spark
 - [PostgreSQL](https://www.postgresql.org/) – Relational database
 
 ### Version Control & CI/CD  
