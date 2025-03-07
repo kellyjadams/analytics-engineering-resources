@@ -20,7 +20,7 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ---
 
-## Tools & Concepts for Analytics Engineers  
+## ⚒️ Tools & Concepts for Analytics Engineers  
 
 ### Data Transformation  
 - [dbt](https://www.getdbt.com/) – Modular SQL-based transformations
@@ -65,8 +65,6 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 - Documentation – Document the data models to keep schema and relationships clear.
 
 ---
-
-This keeps it **simple, actionable, and easy to follow** while still being useful for analytics engineering. 🚀
 
 ## 📚 Learning Resources
 - Specific Courses
