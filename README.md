@@ -17,7 +17,7 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
   - [Analytics Engineer Responsibilties](https://handbook.gitlab.com/job-families/marketing/enterprise-data/analytics-engineer/)
 - Need real-world data? Check out [Sites to Find Public Datasets](#sites-to-find-public-datasets)
 - Looking for courses? See [Specific Courses](#specific-courses)
-- Need an overview? Checkout [A guiode to the data landscape](https://www.metabase.com/learn/grow-your-data-skills/data-landscape/data-landscape)
+- Need an overview? Checkout [A guide to the data landscape](https://www.metabase.com/learn/grow-your-data-skills/data-landscape/data-landscape)
 
 ---
 
