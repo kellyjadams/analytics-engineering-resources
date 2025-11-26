@@ -63,9 +63,21 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ### Data Modeling
 
-- Use a Star Schema – Organize data into fact and dimension tables to improve query performance.
+- There's multiple methods, playbooks, and strategies on how to model data. In data engineering and analytics enginneering, a data model is how you transform, process, and store/represent your data in your database.
+    - Medallion Architecture
+    - Kimball Modeling (or dimension & fact modeling)
+    - Use a Star Schema – Organize data into fact and dimension tables to improve query performance.
 - Partition & Cluster Large Tables – Partition by date and cluster by frequently filtered columns to speed up queries.  
-- Documentation – Document the data models to keep schema and relationships clear.
+- Documentation – Document the data models & metadata to keep schema and relationships clear.
+
+### Style & Linters
+A linter is a program or script that analyzes your code, looking for bugs, errors, or violations of your style guide. Some examples are:
+- [Black](https://black.readthedocs.io/en/stable/index.html) for Python
+- [sqlfluff](https://docs.sqlfluff.com/en/stable/index.html) for SQL
+- [yamllint](https://docs.sqlfluff.com/en/stable/index.html) for YAMLs
+- [lintr](https://lintr.r-lib.org/index.html) for R
+
+A style guide is a set of rules, guidelines, and standard practices for how you will write your code. This can help standardize how a team writes code and make it easier to maintain projects over time. The gold-standard is [GitLab's](https://handbook.gitlab.com/handbook/enterprise-data/platform/sql-style-guide/). As you grow & gain experience, it's best to modify an off-the-shelf guide like GitLab's with your own preferences, lessons from your data/architecture, and your unique team.
 
 ---
 
@@ -91,7 +103,7 @@ Note this is very similar to the same section in [data-analytics-resources](http
 - [Datahub](https://datahub.io/collections)
 - [Dataset Search](https://datasetsearch.research.google.com/) 
 - [Kaggle](https://www.kaggle.com/datasets) 
-- [Data Gov](https://data.gov/)
+- [data.gov](https://data.gov/)
 - [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Datacamp Datasets](https://www.datacamp.com/workspace/datasets)
